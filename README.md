@@ -10,7 +10,7 @@ With a user-friendly interface, users can easily schedule laundry services witho
 
 ---
 
-## Author 👨‍💻 🏆
+## Author 👨‍💻 
 Developed by **Margareta Valencia** 💅	 
 
 ---
